@@ -9,9 +9,9 @@ Objectives of the analysis are to understand the following:
 - what are the factors that hinder attracting customers.
 
 ## Summary workflow
-The data from the mobile app was analyzed.  
-Various metrics were calculated and cohort analysis was used: LTV, CAC, Retention rate, DAU, WAU, MAU, etc.  
-Conclusions were made about advertising costs.
+1. The data from the mobile app was analyzed.  
+2. Various metrics were calculated and cohort analysis was used: LTV, CAC, Retention rate, DAU, WAU, MAU, etc.  
+3. Conclusions were made about advertising costs.
 
 ## Techniques used
 Data processing, ROI, LTV, CAC, Retention, cohort analysis
