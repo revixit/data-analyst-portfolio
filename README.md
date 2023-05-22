@@ -1,9 +1,10 @@
 # Alexey Sorokin's Data Analyst Portfolio
 
-Welcome to my data analyst portfolio! I'm passionate about leveraging data to uncover insights and drive informed decision-making. This repository showcases my projects, skills, and contributions as a data analyst.
+Welcome to my data analyst portfolio! I'm passionate about leveraging data to uncover insights and drive informed decision-making. This repository showcases my projects and skills as a data analyst.
 
 ## About Me
-I am an experienced professional with a background in customer experience and marketing. However, I have made the decision to shift my focus towards data analysis and machine learning. In addition to data analysis, my expertise spans multiple domains, including edtech, marketing, and leadership, and I am committed to delivering valuable insights through meticulous data analysis.
+
+In my work I have always taken a data-driven approach and used analytics tools. Recently I decided to get serious about analytics and machine learning and changed my career track. In addition to that I have expertise in automotive, edtech, consumer electronics. 
 
 ## Skills
 - Data cleaning, preprocessing, and wrangling
@@ -49,5 +50,3 @@ I'm open to new opportunities, collaborations, and feedback. You can reach me vi
 - LinkedIn: [@revixit](https://www.linkedin.com/in/revixit/)
 - Telegram: [@lesha_sorokin](https://t.me/lesha_sorokin)
 - E-mail: [revixit@gmail.com](mailto:revixit@gmail.com)
-
-Thank you for visiting my portfolio. I hope you find my work insightful and engaging. I'm excited to continue my data analyst journey and contribute to data-driven projects!
