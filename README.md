@@ -3,7 +3,7 @@
 Welcome to my data analyst portfolio! I'm passionate about leveraging data to uncover insights and drive informed decision-making. This repository showcases my projects, skills, and contributions as a data analyst.
 
 ## About Me
-I am an experienced professional with a background in customer experience and the automotive industry. However, I have made the decision to shift my focus towards data analysis and machine learning. In addition to data analysis, my expertise spans multiple domains, including edtech, marketing, and leadership, and I am committed to delivering valuable insights through meticulous data analysis.
+I am an experienced professional with a background in customer experience and marketing. However, I have made the decision to shift my focus towards data analysis and machine learning. In addition to data analysis, my expertise spans multiple domains, including edtech, marketing, and leadership, and I am committed to delivering valuable insights through meticulous data analysis.
 
 ## Skills
 - Data cleaning, preprocessing, and wrangling
