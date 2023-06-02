@@ -36,8 +36,8 @@ Here's a summary of the projects you'll find in this repository:
 ### Project 3: E-commerce research. Identifying consumption profiles
 **Code:** [E-commerce research. Identifying consumption profiles.ipynb](https://github.com/revixit/data-analyst-portfolio/blob/main/E-commerce%20research.%20Identifying%20consumption%20profiles/E-commerce%20research.%20Identifying%20consumption%20profiles.ipynb)  
 **Objective:** segment customers based on their purchase history and develop personalized recommendations to increase sales for each customer segment  
-**Techniques used:** Data cleaning, visualization, A/B test, RMF analysis, Mann-Whitney test  
-**Tools:** Python (Pandas, Matplotlib, Scipy, Seaborn, pymorphy2)  
+**Techniques used:** K-mean clustering, Hierarchial clustering, Data cleaning, visualization, A/B test, RMF analysis, Mann-Whitney test  
+**Tools:** Python (Pandas, Matplotlib, Scipy, Seaborn, pymorphy)  
 
 ### Project 4: Game market analysis
 **Code:** [Game market analysis.ipynb](https://github.com/revixit/data-analyst-portfolio/blob/main/Game%20market%20analysis/Game%20market%20analysis.ipynb)  
