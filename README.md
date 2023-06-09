@@ -22,7 +22,7 @@ In my work I have always taken a data-driven approach and used analytics tools. 
 Here's a summary of the projects you'll find in this repository:
 
 ### Project 1: Analysis of e-commerce metrics by SQL
-**Code:** [Analysis of e-commerce metrics by SQL.md]()  
+**Code:** [Analysis of e-commerce metrics by SQL.md](https://github.com/revixit/data-analyst-portfolio/blob/main/SQL%20analysis%20of%20web%20shop%20delivery/SQL%20analysis%20of%20web%20shop%20delivery.md)  
 **Objective:** calculate and evaluate KPIs of e-commerce service, compare effects of two advertising campaigns on these KPIs
 **Techniques used:** Cohort analysis, DAU, MAU, ROI, CAC, AOV, ARPU, ARPPU, Retention rate
 **Tools:** SQL (window functions, sub-queries, etc.)
