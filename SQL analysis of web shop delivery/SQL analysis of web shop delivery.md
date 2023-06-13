@@ -25,7 +25,7 @@
 Cohort analysis, DAU, MAU, ROI, CAC, AOV, ARPU, ARPPU, Retention rate
 
 ## Tools
-SQL (window functions, sub-queries, joins, aggregations, etc.)
+SQL: window functions, sub-queries, joins, aggregations, etc.
 
 ## Database settings 
 * Name: Database of web shop 
