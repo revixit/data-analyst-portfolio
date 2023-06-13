@@ -29,7 +29,6 @@ SQL (window functions, sub-queries, etc.)
 
 ## Database settings 
 * Name: Database of web shop 
-* Source: https://redash.public.karpov.courses/
 * Database contains 6 tables with details about products, orders, couriers and users: 
     * TABLE courier actions
         * action CHARACTER VARYING 
