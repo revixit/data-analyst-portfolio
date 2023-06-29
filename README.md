@@ -27,25 +27,31 @@ Here's a summary of the projects you'll find in this repository:
 **Techniques used:** Cohort analysis, DAU, MAU, ROI, CAC, AOV, ARPU, ARPPU, Retention rate
 **Tools:** SQL (window functions, sub-queries, etc.)
 
-### Project 2: Analysis of advertising effectiveness  
+### Project 2: Dashboard of Data Analyst vacancies from hh.ru
+**Link to Tableau Public:** [Data Analyst vacancies from hh.ru](https://public.tableau.com/app/profile/alexey.sorokin/viz/DataAnalystvacanciesfromhh_ru/Dashboard?publish=yes)
+**Objective:** create a monitoring tool (dashboard) that will help in job hunting to Data Analyst
+**Techniques used:** VPS's setting (Ubuntu), web parsing, scheduled python scripts (crontab), Google API
+**Tools:** Tableau, Python, crontab, Google API
+
+### Project 3: Analysis of advertising effectiveness  
 **Code:** [Analysis of advertising effectiveness.ipynb](https://github.com/revixit/data-analyst-portfolio/blob/main/Analysis%20of%20advertising%20effectiveness/Analysis%20of%20advertising%20effectiveness.ipynb)  
 **Objective:** understand user acquisition sources, device usage, advertising costs across channels, customer lifetime value, customer acquisition payback period, and factors that impact customer acquisition  
 **Techniques used:** Data processing, ROI, LTV, CAC, Retention, cohort analysis  
 **Tools:** Python (Pandas, Matplotlib, Scipy, Seaborn)  
 
-### Project 3: Hypothesis analysis of online store development  
+### Project 4: Hypothesis analysis of online store development  
 **Code:** [Hypothesis analysis of online store development.ipynb](https://github.com/revixit/data-analyst-portfolio/blob/main/Hypothesis%20analysis%20of%20online%20store%20development/Hypothesis%20analysis%20of%20online%20store%20development.ipynb)  
 **Objective:** prioritize, launch, and analyze an A/B test for an online shop to generate hypotheses aimed at increasing revenue and provide recommendations based on the test results  
 **Techniques used:** Data cleaning, visualization, A/B test, statistical test, RICE framework  
 **Tools:** Python (Pandas, Matplotlib, Scipy, Seaborn)  
 
-### Project 4: E-commerce research. Identifying consumption profiles
+### Project 5: E-commerce research. Identifying consumption profiles
 **Code:** [E-commerce research. Identifying consumption profiles.ipynb](https://github.com/revixit/data-analyst-portfolio/blob/main/E-commerce%20research.%20Identifying%20consumption%20profiles/E-commerce%20research.%20Identifying%20consumption%20profiles.ipynb)  
 **Objective:** segment customers based on their purchase history and develop personalized recommendations to increase sales for each customer segment  
 **Techniques used:** K-mean clustering, Hierarchial clustering, Data cleaning, visualization, A/B test, RMF analysis, Mann-Whitney test  
 **Tools:** Python (Pandas, Matplotlib, Scipy, Seaborn, pymorphy)  
 
-### Project 5: Game market analysis
+### Project 6: Game market analysis
 **Code:** [Game market analysis.ipynb](https://github.com/revixit/data-analyst-portfolio/blob/main/Game%20market%20analysis/Game%20market%20analysis.ipynb)  
 **Objective:** analyze the parameters influencing game success in different regions, compile user portraits, and test hypotheses about user ratings across platforms and genres  
 **Techniques used:** Exploratory data analysis, statistical test, Student's t-test  
