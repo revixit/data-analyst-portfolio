@@ -23,15 +23,15 @@ Here's a summary of the projects you'll find in this repository:
 
 ### Project 1: Analysis of e-commerce metrics by SQL
 **Code:** [Analysis of e-commerce metrics by SQL.md](https://github.com/revixit/data-analyst-portfolio/blob/main/SQL%20analysis%20of%20web%20shop%20delivery/SQL%20analysis%20of%20web%20shop%20delivery.md)  
-**Objective:** calculate and evaluate KPIs of e-commerce service, compare effects of two advertising campaigns on these KPIs
-**Techniques used:** Cohort analysis, DAU, MAU, ROI, CAC, AOV, ARPU, ARPPU, Retention rate
-**Tools:** SQL (window functions, sub-queries, etc.)
+**Objective:** calculate and evaluate KPIs of e-commerce service, compare effects of two advertising campaigns on these KPIs  
+**Techniques used:** Cohort analysis, DAU, MAU, ROI, CAC, AOV, ARPU, ARPPU, Retention rate  
+**Tools:** SQL (window functions, sub-queries, etc.)  
 
-### Project 2: Dashboard of Data Analyst vacancies from hh.ru
-**Link to Tableau Public:** [Data Analyst vacancies from hh.ru](https://public.tableau.com/app/profile/alexey.sorokin/viz/DataAnalystvacanciesfromhh_ru/Dashboard?publish=yes)
-**Objective:** create a monitoring tool (dashboard) that will help in job hunting to Data Analyst
-**Techniques used:** VPS's setting (Ubuntu), web parsing, scheduled python scripts (crontab), Google API
-**Tools:** Tableau, Python, crontab, Google API
+### Project 2: Dashboard of Data Analyst vacancies from hh.ru  
+**Link to Tableau Public:** [Data Analyst vacancies from hh.ru](https://public.tableau.com/app/profile/alexey.sorokin/viz/DataAnalystvacanciesfromhh_ru/Dashboard?publish=yes)  
+**Objective:** create a monitoring tool (dashboard) that will help in job hunting to Data Analyst  
+**Techniques used:** VPS's setting (Ubuntu), web parsing, scheduled python scripts (crontab), Google API  
+**Tools:** Tableau, Python, crontab, Google API  
 
 ### Project 3: Analysis of advertising effectiveness  
 **Code:** [Analysis of advertising effectiveness.ipynb](https://github.com/revixit/data-analyst-portfolio/blob/main/Analysis%20of%20advertising%20effectiveness/Analysis%20of%20advertising%20effectiveness.ipynb)  
